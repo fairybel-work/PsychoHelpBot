@@ -22,7 +22,7 @@ PsychoHelpBot is a Telegram bot designed to provide mental health support throug
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/PsychoHelpBot.git
+   git clone https://github.com/fairybel-work/PsychoHelpBot.git
    cd PsychoHelpBot
    
 2. Set up a virtual environment and install the required packages:
